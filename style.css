@@ -10,7 +10,7 @@ body {
 
 body header {
   height: 800px;
-  background-image: url(../https://github.com/tsubasadesu/porter/blob/main/computer-2982270_1920.jpg?raw=true);
+  background-image: image-url(../https://github.com/tsubasadesu/porter/blob/main/computer-2982270_1920.jpg?raw=true);
   background-position: center center;
   background-size: cover;
   text-align: right;
