@@ -1,0 +1,241 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+}
+
+body {
+  width: 1520px;
+}
+
+body header {
+  height: 800px;
+  background-image: url(../images/computer.jpg);
+  background-position: center center;
+  background-size: cover;
+  text-align: right;
+}
+
+body header .header-area {
+  height: 800px;
+  background: rgba(14, 11, 11, 0.6);
+}
+
+body header .header-area .global-nav {
+  padding-top: 20px;
+}
+
+body header .header-area .global-nav span {
+  color: #fdfdb1;
+}
+
+body header .header-area .global-nav ul {
+  display: inline-block;
+  padding-left: 40px;
+}
+
+body header .header-area .global-nav ul li {
+  display: inline-block;
+}
+
+body header .header-area .global-nav ul li a {
+  color: #f1eaea;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+body header .header-area .global-nav .btn {
+  display: inline-block;
+}
+
+body header .header-area .global-nav .btn a {
+  color: #f1eaea;
+  text-decoration: none;
+  font-size: 20px;
+  background: #123053;
+  padding: 10px 30px;
+  border: 2px solid #cac2c2;
+  margin-right: 10px;
+}
+
+body header .header-area h1 {
+  text-align: center;
+  color: #ebebeb;
+  font-size: 80px;
+  margin-top: 300px;
+}
+
+body .main {
+  background-image: url(../images/grid-3227459_1920.jpg);
+  height: 500px;
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+}
+
+body .main .main-area {
+  background: #dddddd;
+  height: 500px;
+}
+
+body .main .main-area h1 {
+  font-size: 50px;
+  display: inline-block;
+  border-bottom: 5px  solid  gray;
+  padding-top: 15px;
+}
+
+body .main .main-area h1 span {
+  color: #fdfdb1;
+}
+
+body .main .main-area .main-txt {
+  margin-top: 100px;
+}
+
+body .main .main-area .main-txt img {
+  display: inline-block;
+  border-radius: 20%;
+  margin-bottom: 25px;
+  margin-right: 20px;
+}
+
+body .main .main-area .main-txt p {
+  display: inline-block;
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.5;
+  background: #fcfcff;
+  padding: 30px 20px;
+}
+
+body .wrap {
+  height: 500px;
+  background: #b8b6b6;
+  color: white;
+  text-align: center;
+}
+
+body .wrap h1 {
+  font-size: 50px;
+  padding-top: 15px;
+  padding-bottom: 2px;
+  display: inline-block;
+  border-bottom: 5px solid #4d4848;
+}
+
+body .wrap h1 span {
+  color: #fdfdb1;
+}
+
+body .wrap .first-wrap {
+  text-align: center;
+}
+
+body .wrap .first-wrap a {
+  border-radius: 50%;
+  border: 4px solid #d9f8fc;
+  padding: 10px 10px;
+  font-size: 100px;
+  display: inline-block;
+  margin-top: 40px;
+  color: #d9f8fc;
+}
+
+body .wrap .first-wrap p {
+  font-size: 18px;
+  text-align: left;
+  margin: 30px 0 0 450px;
+  line-height: 1.5;
+}
+
+body .content {
+  background-color: #dededf;
+  height: 800px;
+  text-align: center;
+}
+
+body .content h1 {
+  font-size: 50px;
+  padding-top: 15px;
+  padding-bottom: 2px;
+  display: inline-block;
+  border-bottom: 5px solid #918f8f;
+}
+
+body .content h1 span {
+  color: #fdfdb1;
+}
+
+body .content .wrapper {
+  color: #302f2f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .content .wrapper p {
+  font-size: 18px;
+}
+
+body .content .wrapper img {
+  width: 200px;
+  height: 400px;
+  display: inline-block;
+}
+
+body .content .wrapper a:hover {
+  opacity: 0.6;
+}
+
+body footer {
+  background-image: url(../images/hand-1076597_1920.jpg);
+  height: 800px;
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+}
+
+body footer .footer-area {
+  background: rgba(252, 248, 248, 0.6);
+  height: 800px;
+}
+
+body footer .footer-area h1 {
+  font-size: 50px;
+  padding-top: 15px;
+  padding-bottom: 2px;
+  display: inline-block;
+  border-bottom: 5px solid #3a3939;
+}
+
+body footer .footer-area h1 span {
+  color: #fdfdb1;
+}
+
+body footer .footer-area .contact-form {
+  width: 50%;
+  margin: 50px auto 0;
+}
+
+body footer .footer-area .contact-form input[type=text] {
+  display: block;
+  width: 100%;
+  padding: 30px 0;
+  margin-top: 30px;
+}
+
+body footer .footer-area .contact-form input[type=submit] {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
+
+body footer .footer-area .contact-form textarea {
+  display: block;
+  width: 100%;
+  padding: 100px 0;
+  margin-top: 20px;
+}
+/*# sourceMappingURL=style.css.map */
