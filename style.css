@@ -10,7 +10,7 @@ body {
 
 body header {
   height: 800px;
-  background-image: url(images/computer.jpg);
+  background-image: url(../images/computer.jpg);
   background-position: center center;
   background-size: cover;
   text-align: right;
@@ -67,7 +67,7 @@ body header .header-area h1 {
 }
 
 body .main {
-  background-image: url(images/grid-3227459_1920.jpg);
+  background-image: url(../images/grid-3227459_1920.jpg);
   height: 500px;
   background-position: center center;
   background-size: cover;
@@ -190,7 +190,7 @@ body .content .wrapper a:hover {
 }
 
 body footer {
-  background-image: url(images/hand-1076597_1920.jpg);
+  background-image: url(../images/hand-1076597_1920.jpg);
   height: 800px;
   background-position: center center;
   background-size: cover;
