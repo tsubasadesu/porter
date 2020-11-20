@@ -173,13 +173,13 @@ body .content .wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  text-align: center;
+  
   margin-right: 40px;
 }
 
 body .content .wrapper p {
   font-size: 18px;
-  margin-right: 40px;
+ 
 }
 
 body .content .wrapper img {
