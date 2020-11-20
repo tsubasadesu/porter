@@ -179,14 +179,14 @@ body .content .wrapper {
 
 body .content .wrapper p {
   font-size: 18px;
- justify-content: space-evenly;
+ 
 }
 
 body .content .wrapper img {
   width: 200px;
   height: 400px;
   display: inline-block;
-  justify-content: space-evenly;
+  
 }
 
 body .content .wrapper a:hover {
