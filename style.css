@@ -174,19 +174,20 @@ body .content .wrapper {
   display: -ms-flexbox;
   display: flex;
   
- justify-content: space-evenly;
+ 　frex-wrap: wrap;
 }
 
 body .content .wrapper p {
   font-size: 18px;
   color: #ffffff;
+  margin-right: 20px;
 }
 
 body .content .wrapper img {
   width: 200px;
   height: 400px;
   display: inline-block;
-  
+  margin-right: 20px;
 }
 
 body .content .wrapper a:hover {
